@@ -3,7 +3,9 @@ function multiply(a, b) {
 }
 
 function add(a, b) {
-  return a + b;
+  const intA = parseInt(a, 10);
+  const intB = parseInt(b, 10);
+  return intA + intB;
 }
 
 function subtract(a, b) {
