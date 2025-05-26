@@ -1,7 +1,7 @@
 {
   "name": "lesson8",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "demo app for github actions workshop",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage"

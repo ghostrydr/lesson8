@@ -11,3 +11,7 @@ test('add two values', () => {
 test('subtract two values', () => {
   expect(appOperations.subtract(15, 5)).toBe(10);
 });
+
+test('divide two values', () => {
+  expect(appOperations.divide(15, 5)).toBe(3); 
+});
